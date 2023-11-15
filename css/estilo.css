@@ -3,3 +3,14 @@
     padding: 0;
     box-sizing: border-box;
 }
+.img{
+    text-align: center;
+}
+footer{
+    background-color: #242481;
+    color: white;
+    padding: 1rem;
+}
+h4{
+    color: yellow;
+}
